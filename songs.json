@@ -1,31 +1,43 @@
 {
     "song1" : {
        "Song_Name" : "I Really want to stay in your house",
+       "Artist": "Rosa Walton & Hallie Coggins",
+       "Genre": "Electronic music",
        "Song_YTURL" : "https://www.youtube.com/watch?v=gzbLODUb1sA"
     },
     
     "song2" : {
         "Song_Name" : "Tourner Dans Le Vide",
+        "Artist": "Indila",
+        "Genre": "French Pop",
         "Song_YTURL" : "https://www.youtube.com/watch?v=vtNJMAyeP0s"
      },
 
      "song3" : {
         "Song_Name" : "Man in the mirror",
+        "Artist": "Michael Jackson",
+        "Genre": "Pop Music",
         "Song_YTURL" : "https://www.youtube.com/watch?v=Z9NYDgbKsBE"
      },
 
      "song4" : {
         "Song_Name" : "You know how we do it",
+        "Artist": "Ice-Cube",
+        "Genre": "Rap Music",
         "Song_YTURL" : "https://www.youtube.com/watch?v=rzRqEWJYwX4"
      },
 
      "song5" : {
         "Song_Name" : "Neverita",
+        "Artist": "Bad-Bunny",
+        "Genre": "Spanish Pop",
         "Song_YTURL" : "https://www.youtube.com/watch?v=ARWg160eaX4"
      },
     
     "song6" : {
         "Song_Name" : "What is love",
+        "Artist": "Haddaway",
+        "Genre": "Eurodance",
         "Song_YTURL" : "https://www.youtube.com/watch?v=bizWqF8BmM0"
      }
      

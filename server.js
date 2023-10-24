@@ -16,7 +16,9 @@ app.get('/listSongs', function (req, res) {
  
  var song = {
     "newsong" : {
-       "Song_Name" : "Michael Jackson - The Way You Make Me Feel",
+       "Song_Name" : "Michael Jackson The Way You Make Me Feel",
+       "Artist": "Michael Jackson",
+       "Genre": "Pop Music",
        "Song_YTURL" : "https://www.youtube.com/watch?v=HzZ_urpj4As"
     }
  }
